@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👩‍💻 GONI GIT ✌🏼
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongGoEun&show_icons=true&theme=buefy?count_private=true&hide=issues,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
