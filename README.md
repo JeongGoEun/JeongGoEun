@@ -16,4 +16,4 @@ src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor
 
 ### 📚Docs
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">](https://goeunwiki.notion.site/66e7c8f9cbea4a5d8a9674866f956f5a)
-[<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">]([https://goeunwiki.notion.site/66e7c8f9cbea4a5d8a9674866f956f5a](https://velog.io/@wjdrhdms002))
+[<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">](https://velog.io/@wjdrhdms002)
